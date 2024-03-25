@@ -1,0 +1,40 @@
+{
+    "userToken":[
+        {
+            "token":"AshgytoHgaGTiahfkljg",
+            "userId":"lxy",
+            "password":"123"
+        },
+        {
+            "token":"HasdfPIasdfASHasdfDF",
+            "userId":"test1",
+            "password":"123"
+        },
+        {
+            "token":"aoFGligGHhsSHuJihoJUia",
+            "userId":"test2",
+            "password":"123"
+        }
+    ],
+    "userInfo":[
+        {
+            "userName":"lxy",
+            "role":"管理员",
+            "portrait":"/user-portrait/dabai.jpg",
+            "userId":"lxy"
+        },
+        {
+            "userName":"test1",
+            "role":"会员",
+            "portrait":"/user-portrait/xiaobai.jpg",
+            "userId":"test1"
+        },
+        {
+            "userName":"test2",
+            "role":"测试",
+            "portrait":"/user-portrait/test.jpg",
+            "userId":"test2"
+        }
+    ]
+
+}
