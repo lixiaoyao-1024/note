@@ -51,34 +51,7 @@ npm install
 npm run serve
 ```
 
-- 用户名密码表
-```
-dabai-----123456 管理员
-xiaobai---000000 会员
-1---------111111 测试
-```
 
-## 项目部分展示
-
-- 登陆页
-
-![login](./screenshot/login1.png)
-![login](./screenshot/login2.png)
-
-- 首页
-
-![home](./screenshot/home.png)
-
-- 设置
-
-![setting](./screenshot/setting.png)
-- 夜间模式
-
-![night theme](./screenshot/night.png)
-
-- 粉色主题
-
-![pink theme](./screenshot/pink-theme.png)
 
 
 
